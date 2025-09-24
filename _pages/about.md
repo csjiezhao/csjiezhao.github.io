@@ -23,8 +23,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 1. Yuwei Du, Jie Feng, **Jie Zhao**, Jian Yuan, Yong Li, [TrajAgent: An LLM-based Agent Framework for Automated Trajectory Modeling via Collaboration of Large and Small Models](https://arxiv.org/abs/2410.20445), *NeurIPS*, 2025.
@@ -40,17 +38,10 @@ My research interest includes neural machine translation and computer vision. I 
 11. Yi Xie, Yun Xiong, Jiawei Zhang, Chao Chen, Yao Zhang, **Jie Zhao**, Yizhu Jiao, Jinjing Zhao, Yangyong Zhu, [Temporal Super-Resolution Traffic Flow Forecasting via Continuous-Time Network Dynamics](https://link.springer.com/article/10.1007/s10115-023-01887-6), *Knowledge and Information Systems (KAIS)*, 2023.
 12. Xuefeng Xie, **<u>Jie Zhao</u>**, Chao Chen, Lin Wang, [AF-TCP: Traffic Congestion Prediction at Arbitrary Road Segment and Flexible Future Time](https://link.springer.com/chapter/10.1007/978-3-030-95391-1_11), *International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)*, 2021.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Experience
+## Work
+- *2024.11 - 2026.11*, Postdoctoral Research Fellow, Department of Electronic Engineering, Tsinghua University, Beijing, China. In cooperation with Prof. Yong LI.
+- *2024.06 - 2024.09*, Research Assistant, The Hong Kong University of Science and Technology, Guangzhou, China. In cooperation with Prof. Yuxuan LIANG.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## Education
+- *2018.09 - 2024.06*, Ph.D. in Computer Science, College of Computer Science, Chongqing University, Chongqing, China. Supervised by Prof. Chao CHEN.

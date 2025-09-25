@@ -19,11 +19,7 @@ redirect_from:
 
 I am a Postdoctoral Research Fellow at the Department of Electronic Engineering, Tsinghua University. Before that, I received my Ph.D. in Computer Science from Chongqing University in 2024.
 
-My research interests include **spatiotemporal data mining and large language model based agents**. I have published over 10 papers in top-tier conferences and journals with a total 
-<a href='https://scholar.google.com/citations?user=cSrV8q4AAAAJ'>
-  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>.
-
+My research interests include **spatiotemporal data mining and large language model based agents**. I have published over 10 papers in top-tier conferences and journals with total <a href='https://scholar.google.com/citations?user=cSrV8q4AAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> 
 
 
 # 🔥 News

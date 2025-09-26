@@ -45,3 +45,11 @@ My research interests include Spatiotemporal Data Mining and LLM Agents. I have 
 
 ## Education
 - *2018.09 - 2024.06*, Ph.D. in Computer Science, College of Computer Science, Chongqing University, Chongqing, China. Supervised by Prof. Chao CHEN.
+
+<div id="mapid" style="height:500px;"></div>
+<script>
+  var map = L.map('mapid').setView([39.9, 116.4], 11);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+</script>

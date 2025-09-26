@@ -25,12 +25,17 @@ My research interests include **Spatiotemporal Data Mining** and **Large Languag
 
   <!-- 左边文字 -->
   <div style="flex:1; min-width:250px; font-size:0.95rem; line-height:1.6;">
-    <p><strong>Office Address:</strong><br>
+  <p>
+    <strong>Office Address:</strong><br>
     FIB LAB (Room 10-202), ROHM Building,<br>
     30 Shuangqing Road, Haidian District,<br>
     Beijing 100084, China.<br>
-    Website: [https://fi.ee.tsinghua.edu.cn/](https://fi.ee.tsinghua.edu.cn/)</p>
-  </div>
+    Website: <a href="https://fi.ee.tsinghua.edu.cn/" target="_blank">
+      https://fi.ee.tsinghua.edu.cn/
+    </a>
+  </p>
+</div>
+
 
   <!-- 右边地图 -->
   <div style="flex:1; min-width:300px; height:250px; border:1px solid #ddd; border-radius:6px; overflow:hidden;">

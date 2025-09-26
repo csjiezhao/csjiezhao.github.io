@@ -26,9 +26,10 @@ My research interests include **Spatiotemporal Data Mining** and **Large Languag
   <!-- 左边文字 -->
   <div style="flex:1; min-width:250px; font-size:0.95rem; line-height:1.6;">
     <p><strong>Office Address:</strong><br>
-    Room 10-202, ROHM Building,<br>
+    FIB LAB (Room 10-202), ROHM Building,<br>
     30 Shuangqing Road, Haidian District,<br>
-    Beijing 100084, China</p>
+    Beijing 100084, China.<br>
+    Website: https://fi.ee.tsinghua.edu.cn/</p>
   </div>
 
   <!-- 右边地图 -->
@@ -42,19 +43,22 @@ My research interests include **Spatiotemporal Data Mining** and **Large Languag
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
-  var map = L.map('mapid').setView([40.00431, 116.32999], 11); // 深圳坐标
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors'
-  }).addTo(map);
-
+  var map = L.map('mapid').setView([40.005038, 116.336553], 11);
+  L.tileLayer(
+    'https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=7&x={x}&y={y}&z={z}', 
+    {
+      subdomains: ['1','2','3','4'], 
+      attribution: '© 高德地图'
+    }
+  ).addTo(map);
   // 添加标记
-  L.marker([40.00431, 116.32999]).addTo(map)
+  L.marker([40.005038, 116.336553]).addTo(map)
     .bindPopup('ROHM Building')
     .openPopup();
 </script>
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 We release a new survey about [Embodied World Models](https://www.researchgate.net/publication/395713824_A_Survey_of_Embodied_World_Models)!
+- *2025.09*: &nbsp;🎉🎉 We release a latest survey about [Embodied World Models](https://www.researchgate.net/publication/395713824_A_Survey_of_Embodied_World_Models) !
 
 # 📝 Publications 
 1. Yuwei Du, Jie Feng, **Jie Zhao**, Jian Yuan, Yong Li, [TrajAgent: An LLM-based Agent Framework for Automated Trajectory Modeling via Collaboration of Large and Small Models](https://arxiv.org/abs/2410.20445), *NeurIPS*, 2025.

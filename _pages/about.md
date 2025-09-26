@@ -19,8 +19,39 @@ redirect_from:
 
 I am a Postdoctoral Research Fellow at the Department of Electronic Engineering, Tsinghua University. Before that, I received my Ph.D. in Computer Science from Chongqing University in 2024.
 
-My research interests include Spatiotemporal Data Mining and LLM Agents. I have published over 10 papers in top-tier conferences and journals with total <a href='https://scholar.google.com/citations?user=cSrV8q4AAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> 
+My research interests include Spatiotemporal Data Mining and LLM Agents. I have published over 10 papers in top-tier conferences and journals with total <a href='https://scholar.google.com/citations?user=cSrV8q4AAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a>
 
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-top:1rem; gap:1rem;">
+
+  <!-- 左边文字 -->
+  <div style="flex:1; min-width:250px; font-size:0.95rem; line-height:1.6;">
+    <p><strong>Office Address:</strong><br>
+    Room 10-202, ROHM Building,<br>
+    30 Shuangqing Road, Haidian District,<br>
+    Beijing 100084, China</p>
+  </div>
+
+  <!-- 右边地图 -->
+  <div style="flex:1; min-width:300px; height:250px; border:1px solid #ddd; border-radius:6px; overflow:hidden;">
+    <div id="mapid" style="height:100%; width:100%;"></div>
+  </div>
+</div>
+
+<!-- Leaflet CSS & JS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+  var map = L.map('mapid').setView([40.00431, 116.32999], 11); // 深圳坐标
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+
+  // 添加标记
+  L.marker([40.00431, 116.32999]).addTo(map)
+    .bindPopup('ROHM Building')
+    .openPopup();
+</script>
 
 # 🔥 News
 
@@ -45,11 +76,3 @@ My research interests include Spatiotemporal Data Mining and LLM Agents. I have 
 
 ## Education
 - *2018.09 - 2024.06*, Ph.D. in Computer Science, College of Computer Science, Chongqing University, Chongqing, China. Supervised by Prof. Chao CHEN.
-
-<div id="mapid" style="height:500px;"></div>
-<script>
-  var map = L.map('mapid').setView([39.9, 116.4], 11);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors'
-  }).addTo(map);
-</script>

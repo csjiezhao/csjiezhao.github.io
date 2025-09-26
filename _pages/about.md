@@ -29,7 +29,7 @@ My research interests include **Spatiotemporal Data Mining** and **Large Languag
     FIB LAB (Room 10-202), ROHM Building,<br>
     30 Shuangqing Road, Haidian District,<br>
     Beijing 100084, China.<br>
-    Website: https://fi.ee.tsinghua.edu.cn/</p>
+    Website: [https://fi.ee.tsinghua.edu.cn/](https://fi.ee.tsinghua.edu.cn/)</p>
   </div>
 
   <!-- 右边地图 -->
@@ -43,16 +43,16 @@ My research interests include **Spatiotemporal Data Mining** and **Large Languag
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
-  var map = L.map('mapid').setView([40.005038, 116.336553], 11);
+  var map = L.map('mapid').setView([40.00562910045614, 116.33614060332698], 11);
   L.tileLayer(
     'https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=7&x={x}&y={y}&z={z}', 
     {
       subdomains: ['1','2','3','4'], 
-      attribution: '© 高德地图'
+      attribution: '© Amap'
     }
   ).addTo(map);
   // 添加标记
-  L.marker([40.005038, 116.336553]).addTo(map)
+  L.marker([40.00562910045614, 116.33614060332698]).addTo(map)
     .bindPopup('ROHM Building')
     .openPopup();
 </script>

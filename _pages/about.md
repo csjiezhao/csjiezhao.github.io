@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Postdoctoral Research Fellow at the Department of Electronic Engineering, Tsinghua University. Before that, I received my Ph.D. in Computer Science from Chongqing University in 2024.
 
-My research interests include Spatiotemporal Data Mining and LLM Agents. I have published over 10 papers in top-tier conferences and journals with total <a href='https://scholar.google.com/citations?user=cSrV8q4AAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a>
+My research interests include **Spatiotemporal Data Mining** and **Large Language Model Agents**. I have published over 10 papers in top-tier conferences and journals with total <a href='https://scholar.google.com/citations?user=cSrV8q4AAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a>
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-top:1rem; gap:1rem;">
 
@@ -54,6 +54,7 @@ My research interests include Spatiotemporal Data Mining and LLM Agents. I have 
 </script>
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 We release a new survey about [Embodied World Models](https://www.researchgate.net/publication/395713824_A_Survey_of_Embodied_World_Models)!
 
 # 📝 Publications 
 1. Yuwei Du, Jie Feng, **Jie Zhao**, Jian Yuan, Yong Li, [TrajAgent: An LLM-based Agent Framework for Automated Trajectory Modeling via Collaboration of Large and Small Models](https://arxiv.org/abs/2410.20445), *NeurIPS*, 2025.
@@ -69,7 +70,11 @@ My research interests include Spatiotemporal Data Mining and LLM Agents. I have 
 11. Yi Xie, Yun Xiong, Jiawei Zhang, Chao Chen, Yao Zhang, **Jie Zhao**, Yizhu Jiao, Jinjing Zhao, Yangyong Zhu, [Temporal Super-Resolution Traffic Flow Forecasting via Continuous-Time Network Dynamics](https://link.springer.com/article/10.1007/s10115-023-01887-6), *Knowledge and Information Systems (KAIS)*, 2023.
 12. Xuefeng Xie, **<u>Jie Zhao</u>**, Chao Chen, Lin Wang, [AF-TCP: Traffic Congestion Prediction at Arbitrary Road Segment and Flexible Future Time](https://link.springer.com/chapter/10.1007/978-3-030-95391-1_11), *International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)*, 2021.
 
-# Experience
+# 🎖 Honors and Awards
+- *2023* National Scholarship for Doctoral Students, Ministry of Education.
+- *2023* Outstanding Graduate Award, Chongqing University. 
+
+# 📖 Experience
 ## Work
 - *2024.11 - 2026.11*, Postdoctoral Research Fellow, Department of Electronic Engineering, Tsinghua University, Beijing, China. In cooperation with Prof. Yong LI.
 - *2024.06 - 2024.09*, Research Assistant, The Hong Kong University of Science and Technology, Guangzhou, China. In cooperation with Prof. Yuxuan LIANG.

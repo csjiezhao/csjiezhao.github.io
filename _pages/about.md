@@ -48,7 +48,7 @@ My research interests include **Spatiotemporal Data Mining** and **Large Languag
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
-  var map = L.map('mapid').setView([40.005038, 116.336553], 11);
+  var map = L.map('mapid').setView([40.005302, 116.336211], 11);
   L.tileLayer(
     'https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}',
     {
@@ -57,7 +57,7 @@ My research interests include **Spatiotemporal Data Mining** and **Large Languag
     }
   ).addTo(map);
   // 添加标记
-  L.marker([40.005038, 116.336553]).addTo(map)
+  L.marker([40.005302, 116.336211]).addTo(map)
     .bindPopup('ROHM Building')
     .openPopup();
 </script>

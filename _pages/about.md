@@ -48,16 +48,16 @@ My research interests include **Spatiotemporal Data Mining** and **Large Languag
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
-  var map = L.map('mapid').setView([40.00562910045614, 116.33614060332698], 11);
+  var map = L.map('mapid').setView([40.005038, 116.336553], 11);
   L.tileLayer(
-    'https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=7&x={x}&y={y}&z={z}', 
+    'https://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}',
     {
       subdomains: ['1','2','3','4'], 
       attribution: '© Amap'
     }
   ).addTo(map);
   // 添加标记
-  L.marker([40.00562910045614, 116.33614060332698]).addTo(map)
+  L.marker([40.005038, 116.336553]).addTo(map)
     .bindPopup('ROHM Building')
     .openPopup();
 </script>
